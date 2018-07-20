@@ -1,0 +1,9 @@
+{
+  "name": "protractor_tuto",
+  "dependencies": {
+    "protractor": "^5.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
