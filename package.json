@@ -1,8 +1,9 @@
 {
   "name": "protractor_tuto",
-
+  
   "dependencies": {
-    "protractor": "^5.4.0"
+    "protractor": "^5.4.0",
+    "jasmine-data-provider": "^2.2.0"
   },
   "scripts": {
     "webdriver-update": "./node_modules/.bin/webdriver-manager update",
