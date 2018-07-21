@@ -14,6 +14,9 @@ exports.config = {
 
     framework: 'jasmine',
     seleniumAddress: 'http://localhost:4444/wd/hub',
+    jasmineNodeOpts: {
+        showColors: true
+    },
     specs: ['PracticeExercise.js'],
 
     //reporter functions
