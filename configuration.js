@@ -17,7 +17,7 @@ exports.config = {
     jasmineNodeOpts: {
         showColors: true
     },
-    specs: ['PracticeExercise.js'],
+    specs: ['DataElement.js'],
 
     //reporter functions
     // Setup the report before any tests start
